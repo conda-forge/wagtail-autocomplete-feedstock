@@ -21,7 +21,7 @@ requirements:
     - setuptools
   run:
     - python >={{ python_min }}
-    - wagtail>=4.1
+    - wagtail >=4.1
 
 test:
   imports:
