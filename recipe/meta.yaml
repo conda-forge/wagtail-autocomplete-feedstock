@@ -6,7 +6,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/wagtail-autocomplete-{{ version }}.tar.gz
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/wagtail_autocomplete-{{ version }}.tar.gz
   sha256: d1cd315475e8c776c85a75ba5eb76ceb2eb680c18334e7e9424040d7faa9b538
 
 build:
